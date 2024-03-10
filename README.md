@@ -1,7 +1,13 @@
 qubic 一键挖矿
 
-
+下载
 curl -L -o qubic.tar https://github.com/crow4586/qubic-miner/releases/download/qubic/qubic.tar
+
+或者
+wget https://github.com/crow4586/qubic-miner/releases/download/qubic/qubic.tar
+
+
+加权解压
 
 chmod +x qubic.tar
 
