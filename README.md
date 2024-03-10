@@ -1,8 +1,13 @@
 qubic 一键挖矿
 
+
+
 wget https://github.com/crow4586/qubic-miner/blob/main/qubic.tar
+
 chmod +x qubic.tar
+
 tar -xvf qubic.tar
+
 ./mine.sh
 
 1选择 GPU挖矿/CPU挖矿
