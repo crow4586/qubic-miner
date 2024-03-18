@@ -1,24 +1,21 @@
-qubic 一键挖矿
+Qubic Miner    X86/64 Windows
 
-下载
-curl -L -o qubic.tar https://github.com/crow4586/qubic-miner/releases/download/qubic/qubic.tar
-
-或者
-wget https://github.com/crow4586/qubic-miner/releases/download/qubic/qubic.tar
+1,Register wallet，save wallet，Copy wallet payment public key。
+https://llet.qubic.li
 
 
-加权解压
+2，Register the mining pool, subscribe to the mining pool, generate a mining pool token, and fill in the wallet's payment ID into the mining pool settings. Copy the mining pool's token to the address of the mining program.
+https://app.qubic.li/main/mining/pool
 
-chmod +x qubic.tar
 
-tar -xvf qubic.tar
+3，Turn off the anti-virus software, download the mining program, decompress it and run it, modify the number of CPU threads and set the program miner name.
+DOWNLOAD URL:https://github.com/crow4586/qubic-miner/releases/download/qubic/qubic.miner.1.8.9.zip
 
-./mine.sh
 
-1选择 GPU挖矿/CPU挖矿
-    1.2 选择CPU线程数
-2选择 tonke挖矿/ID挖矿
-3输入tonke/ID
-4输入矿工名
+4，Start mining
 
-开始挖矿。
+
+Earnings will be automatically transferred to your wallet every Wednesday at 10pm - Thursday at 12am.
+
+
+Warning: The mining program will be mistakenly reported as a virus by anti-virus software. This program will not cause any damage or modification to the system.
